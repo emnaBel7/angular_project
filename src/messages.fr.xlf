@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="498672243345288335" datatype="html">
+        <source>Welcome to Coffee Bliss</source>
+        <target>Bienvenue chez Coffee Bliss</target>
+      </trans-unit>
+      <trans-unit id="2006592160594617024" datatype="html">
+        <source>Your Perfect Cup Awaits</source>
+        <target>Votre tasse parfaite vous attend</target>
+      </trans-unit>
+      <trans-unit id="2125231851037823396" datatype="html">
+        <source>Discover the finest coffee blends, served with passion and care.</source>
+        <target>Découvrez les meilleurs mélanges de café, servis avec passion et soin.</target>
+      </trans-unit>
+      <trans-unit id="7063222837089152179" datatype="html">
+        <source>Our Menu</source>
+        <target>Notre Menu</target>
+      </trans-unit>
+      <trans-unit id="6085720401868906021" datatype="html">
+        <source>Espresso - A bold shot of pure coffee joy</source>
+        <target>Espresso - Un shot audacieux de pur bonheur caféiné</target>
+      </trans-unit>
+      <trans-unit id="1224574781706764635" datatype="html">
+        <source>Latte - Smooth, creamy perfection</source>
+        <target>Latte - Une perfection lisse et crémeuse</target>
+      </trans-unit>
+      <trans-unit id="3848064128828916308" datatype="html">
+        <source>Cappuccino - A classic, foamy delight</source>
+        <target>Cappuccino - Une mousse classique et délicieuse</target>
+      </trans-unit>
+      <trans-unit id="3155944075165044710" datatype="html">
+        <source>Cold Brew - Refreshingly cool and strong</source>
+        <target>Cold Brew - Rafraîchissant, frais et intense</target>
+      </trans-unit>
+      <trans-unit id="5736481176444461852" datatype="html">
+        <source>About Us</source>
+        <target>À propos de nous</target>
+      </trans-unit>
+      <trans-unit id="8141819748671165662" datatype="html">
+        <source>At Coffee Bliss, we are dedicated to crafting exceptional coffee experiences. From sourcing premium beans to creating a welcoming atmosphere, every detail matters.</source>
+        <target>Chez Coffee Bliss, nous nous engageons à créer des expériences de café exceptionnelles. Du choix des grains premium à la création d'une atmosphère chaleureuse, chaque détail compte.</target>
+      </trans-unit>
+      <trans-unit id="3536084085182559830" datatype="html">
+        <source>Coffee Bliss - Your daily dose of happiness, one cup at a time.</source>
+        <target>Coffee Bliss - Votre dose quotidienne de bonheur, une tasse à la fois.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

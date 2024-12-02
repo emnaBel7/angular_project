@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="header-title" datatype="html">
+        <source>Welcome to Coffee Bliss</source>
+      </trans-unit>
+      <trans-unit id="hero-heading" datatype="html">
+        <source>Your Perfect Cup Awaits</source>
+      </trans-unit>
+      <trans-unit id="hero-description" datatype="html">
+        <source>Discover the finest coffee blends, served with passion and care.</source>
+      </trans-unit>
+      <trans-unit id="menu-heading" datatype="html">
+        <source>Our Menu</source>
+      </trans-unit>
+      <trans-unit id="menu-item-1" datatype="html">
+        <source>Espresso - A bold shot of pure coffee joy</source>
+      </trans-unit>
+      <trans-unit id="menu-item-2" datatype="html">
+        <source>Latte - Smooth, creamy perfection</source>
+      </trans-unit>
+      <trans-unit id="menu-item-3" datatype="html">
+        <source>Cappuccino - A classic, foamy delight</source>
+      </trans-unit>
+      <trans-unit id="menu-item-4" datatype="html">
+        <source>Cold Brew - Refreshingly cool and strong</source>
+      </trans-unit>
+      <trans-unit id="about-heading" datatype="html">
+        <source>About Us</source>
+      </trans-unit>
+      <trans-unit id="about-description" datatype="html">
+        <source>
+          At Coffee Bliss, we are dedicated to crafting exceptional coffee
+          experiences. From sourcing premium beans to creating a welcoming
+          atmosphere, every detail matters.
+        </source>
+      </trans-unit>
+      <trans-unit id="footer-text" datatype="html">
+        <source>Cof
